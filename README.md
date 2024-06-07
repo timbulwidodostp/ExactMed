@@ -1,6 +1,8 @@
 # ExactMed
 Exact Mediation Analysis for Binary Outcomes Use ExactMed With (In) R Software
 
+https://www.youtube.com/watch?v=nCzdT0p6VRY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
